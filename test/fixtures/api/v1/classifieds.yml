@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  classified_name: MyString
+  classified_phone: MyString
+  classified_description: MyString
+  classified_exp_date: 2014-11-03
+  classified_categorie: 1
+
+two:
+  classified_name: MyString
+  classified_phone: MyString
+  classified_description: MyString
+  classified_exp_date: 2014-11-03
+  classified_categorie: 1
